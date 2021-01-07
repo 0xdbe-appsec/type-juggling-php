@@ -1,4 +1,4 @@
-# Hands-on PHP Type Jugling
+# Type Juggling - PHP
 
 ## What's wrong ?
 
